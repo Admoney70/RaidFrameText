@@ -1,0 +1,10 @@
+## Interface: 11508
+## Title: RaidFrameText
+## Notes: Font, size, position and color control for text on Blizzard raid/party frames
+## Author: Adam
+## Version: @project-version@
+## SavedVariables: RaidFrameTextDB
+## OptionalDeps: LibSharedMedia-3.0, SharedMedia
+
+Core.lua
+Options.lua

@@ -1,0 +1,4 @@
+package-as: RaidFrameText
+
+ignore:
+  - README.md
