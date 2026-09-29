@@ -1,4 +1,4 @@
-## Interface: 11508
+## Interface: 16001
 ## Title: RaidFrameText
 ## Notes: Font, size, position and color control for text on Blizzard raid/party frames
 ## Author: Adam
