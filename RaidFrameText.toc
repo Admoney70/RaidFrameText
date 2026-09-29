@@ -3,6 +3,7 @@
 ## Notes: Font, size, position and color control for text on Blizzard raid/party frames
 ## Author: Adam
 ## Version: @project-version@
+## X-Curse-Project-ID: 1718520
 ## SavedVariables: RaidFrameTextDB
 ## OptionalDeps: LibSharedMedia-3.0, SharedMedia
 
